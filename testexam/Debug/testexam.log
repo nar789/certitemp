@@ -1,0 +1,3 @@
+﻿  solution.cpp
+c:\users\leejunghun\source\repos\testexam\testexam\solution.cpp(66): warning C4715: 'findChild': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  testexam.vcxproj -> C:\Users\leejunghun\source\repos\testexam\Debug\testexam.exe
